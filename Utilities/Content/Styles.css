@@ -1,0 +1,32 @@
+﻿h2 {
+    color: #444;
+    margin: 0 auto;
+}
+
+input {
+    margin-left: 5px;
+}
+
+button {
+    padding: 0.2em;
+    font-size: 14px;
+}
+
+.container {
+    width: 700px;
+    margin: 50px auto;
+}
+
+.category {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    margin: 10px auto;
+    background-color: lightgray;
+}
+
+label {
+    background-color: steelblue;
+    padding-left: 10px;
+    padding-right: 10px;
+}
